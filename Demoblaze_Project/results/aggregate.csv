@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+Login Page,950,674,315,1575,1772,2576,59,3571,0.000%,.05407,0.51,0.01
+Home Page,850,1147,708,2361,4078,5893,62,15014,0.000%,.04887,0.70,0.01
+TOTAL,1800,897,466,1816,2602,5531,59,15014,0.000%,.10245,1.20,0.02
